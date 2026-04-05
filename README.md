@@ -139,9 +139,9 @@ Explain the IFRS 16 lease modification accounting treatment.
 
 ---
 
-## CV / Interview Value
+## Salient Features
 
-This project demonstrates to KSA hiring managers:
+This project demonstrates:
 
 - **Arabic proficiency** — built an Arabic-first application
 - **KSA regulatory depth** — SOCPA, GAZT, Zakat, VAT 15%, Vision 2030
@@ -168,7 +168,3 @@ Live demo link → instant credibility over candidates with only textbook knowle
 ## License
 
 MIT — free to use, fork, and extend for portfolio or commercial use.
-
----
-
-*محاسب is an AI-powered educational and analytical tool. Outputs are indicative and should be validated by a licensed SOCPA Chartered Accountant before use in official filings or audit reports.*
