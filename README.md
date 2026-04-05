@@ -3,7 +3,7 @@
 > **The first bilingual Arabic-English AI accountant built specifically for the Saudi regulatory environment.**  
 > Powered by Claude AI (Anthropic) · SOCPA · IFRS · GAZT · Zakat · VAT 15% · Vision 2030
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arabic-english-ai-accountant-atzbaqzqmujgszbhzbeby7.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Claude AI](https://img.shields.io/badge/Powered_by-Claude_AI-orange)
 ![Arabic](https://img.shields.io/badge/Language-Arabic_%2F_English-green)
@@ -150,8 +150,7 @@ This project demonstrates:
 - **Python/Streamlit** — production-ready deployment
 - **Design thinking** — culturally appropriate Islamic geometric UI
 
-Live demo link → instant credibility over candidates with only textbook knowledge.
-
+Live demo link → [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arabic-english-ai-accountant-atzbaqzqmujgszbhzbeby7.streamlit.app/)
 ---
 
 ## Roadmap
@@ -167,4 +166,4 @@ Live demo link → instant credibility over candidates with only textbook knowle
 
 ## License
 
-MIT — free to use, fork, and extend for portfolio or commercial use.
+MIT 
